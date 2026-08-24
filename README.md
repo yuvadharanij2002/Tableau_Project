@@ -50,9 +50,9 @@ This dashboard provides:
 
 ## Dashboard Preview
 ### Dashboard 1
-[Sales & Profit Dashboard](Sales_Profit_Dashboard.png)
+[Sales & Profit Dashboard](Dashboard1-Sales-Profit.png)
 ### Dashboard 2
-[Product Performance Dashboard](Product_Performance_Dashboard.png)
+[Product Performance Dashboard](Dashboard2-Product-Performance.png)
 
 ## Project Files
 
